@@ -25,10 +25,15 @@
 4. 執行伺服器（如 Tomcat）
 
 ## 🖼️ Demo 截圖
+### 首頁畫面
 ![首頁](docs/首頁.jpg)
+### 搜尋書籍
 ![google book api搜尋書籍](docs/image/搜尋書籍.jpg)
+### 收藏書籍
 ![收藏書籍到資料庫](docs/image/收藏.jpg)
+### 查詢收藏書籍
 ![查詢剛剛收藏的書籍](docs/image/查詢收藏書籍.jpg)
+### 刪除書籍
 ![刪除指定的收藏書籍](docs/image/刪除書籍.jpg)
 
 ## 📁 專案結構
