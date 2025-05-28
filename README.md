@@ -2,7 +2,7 @@
 
 本專案是一個使用 Java、JSP、Servlet 與 JDBC 技術製作的書籍查詢平台，整合 Google Books API，實現書籍搜尋、資訊顯示、封面展示、預覽連結與價格引用等功能。此專案僅作為學習用途使用。
 
-##🔧使用技術
+## 🔧 使用技術
 - Java
 - JSP / Servlet
 - JDBC + MySQL
@@ -54,7 +54,6 @@ BookManagementProject/
 ├── webapp/                         # 前端資源（JSP、CSS、JavaScript）
 │   ├── bookList.jsp                # 查詢與收藏書籍畫面
 │   ├── addBook.jsp                 # 新增書籍畫面
-│   ├── css/                        # CSS 樣式（可選）
 │   └── js/  
 │	 └── deleteBook.js           # JavaScript（AJAX 刪除等）
 │	
