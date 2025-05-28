@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
+http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0" metadata-complete="true">
+
+	<display-name>書籍管理系統小專案</display-name>
+
+	<!-- 註冊 Servlet -->
+	<servlet>
+		<servlet-name>BookServlet</servlet-name>
+		<servlet-class>com.mashilin.controller.BookServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>BookServlet</servlet-name>
+		<url-pattern>/searchBooks</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>AddBookServlet</servlet-name>
+		<servlet-class>com.mashilin.controller.AddBookServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>AddBookServlet</servlet-name>
+		<url-pattern>/addBook</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DeleteBookServlet</servlet-name>
+		<servlet-class>com.mashilin.controller.DeleteBookServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>DeleteBookServlet</servlet-name>
+		<url-pattern>/deleteBook</url-pattern>
+	</servlet-mapping>
+</web-app>
