@@ -28,6 +28,7 @@
 可貼上搜尋、收藏、刪除畫面圖
 
 ## 📁 專案結構
+```
 BookManagementProject/
 ├── src/                            # Java 程式碼（Servlet、DAO、Bean）
 │   └── com/example/
@@ -55,7 +56,7 @@ BookManagementProject/
 │   └── 工作流程.docx
 │
 └── README.md                       # GitHub 專案說明文件
-
+```
 ## 🔗 資料來源
 本專案使用 Google Books API 顯示書籍資訊（如書名、作者、封面、價格等），所有資料皆來源自 Google，僅供學習與非商業用途之展示使用。
 
