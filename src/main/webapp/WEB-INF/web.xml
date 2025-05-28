@@ -7,7 +7,7 @@ http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0" metadata-compl
 	<!-- 註冊 Servlet -->
 	<servlet>
 		<servlet-name>BookServlet</servlet-name>
-		<servlet-class>com.mashilin.controller.BookServlet</servlet-class>
+		<servlet-class>com.mazhilin.controller.BookServlet</servlet-class>
 	</servlet>
 
 	<servlet-mapping>
@@ -17,7 +17,7 @@ http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0" metadata-compl
 
 	<servlet>
 		<servlet-name>AddBookServlet</servlet-name>
-		<servlet-class>com.mashilin.controller.AddBookServlet</servlet-class>
+		<servlet-class>com.mazhilin.controller.AddBookServlet</servlet-class>
 	</servlet>
 
 	<servlet-mapping>
@@ -27,7 +27,7 @@ http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0" metadata-compl
 
 	<servlet>
 		<servlet-name>DeleteBookServlet</servlet-name>
-		<servlet-class>com.mashilin.controller.DeleteBookServlet</servlet-class>
+		<servlet-class>com.mazhilin.controller.DeleteBookServlet</servlet-class>
 	</servlet>
 
 	<servlet-mapping>

@@ -1,4 +1,4 @@
-package com.mashilin.controller;
+package com.mazhilin.controller;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -11,8 +11,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.mashilin.dao.BookDAOImpl;
-import com.mashilin.model.util.DBUtil;
+import com.mazhilin.dao.BookDAOImpl;
+import com.mazhilin.model.util.DBUtil;
 
 /**
  * 刪除書籍

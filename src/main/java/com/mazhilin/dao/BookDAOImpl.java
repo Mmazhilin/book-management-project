@@ -1,4 +1,4 @@
-package com.mashilin.dao;
+package com.mazhilin.dao;
 
 import java.sql.Connection;
 import java.sql.Date;
@@ -9,7 +9,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.mashilin.model.Book;
+import com.mazhilin.model.Book;
 
 /**
  * 書籍 DAO 實作

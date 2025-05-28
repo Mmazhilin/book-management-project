@@ -1,4 +1,4 @@
-package com.mashilin.model.util;
+package com.mazhilin.model.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

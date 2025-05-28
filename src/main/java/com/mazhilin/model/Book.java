@@ -1,4 +1,4 @@
-package com.mashilin.model;
+package com.mazhilin.model;
 
 import java.time.LocalDate;
 

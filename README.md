@@ -40,7 +40,7 @@
 ```
 BookManagementProject/
 ├── src/                            # Java 程式碼（Servlet、DAO、Bean）
-│   └── com/example/
+│   └── com/mazhilin/
 │       ├── controller/             # Servlet 控制器（BookServlet、AddBookServlet、DeleteBookServlet）
 │       ├── model/
 │       │   ├── Book.java           # 書籍資料模型（JavaBean）
@@ -81,7 +81,7 @@ BookManagementProject/
 ```text
 MIT License
 
-Copyright (c) 2025 馬志霖
+Copyright (c) 2025 mazhilin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

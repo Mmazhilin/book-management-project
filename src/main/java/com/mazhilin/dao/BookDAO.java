@@ -1,8 +1,8 @@
-package com.mashilin.dao;
+package com.mazhilin.dao;
 
 import java.util.List;
 
-import com.mashilin.model.Book;
+import com.mazhilin.model.Book;
 
 /*
  * 書籍 DAO 介面
