@@ -26,10 +26,10 @@
 
 ## 🖼️ Demo 截圖
 ![首頁](docs/首頁.jpg)
-![google book api搜尋書籍](docs/搜尋書籍.jpg)
-![收藏書籍到資料庫](docs/收藏.jpg)
-![查詢剛剛收藏的書籍](docs/查詢收藏書籍.jpg)
-![刪除指定的收藏書籍](docs/刪除書籍.jpg)
+![google book api搜尋書籍](docs/image/搜尋書籍.jpg)
+![收藏書籍到資料庫](docs/image/收藏.jpg)
+![查詢剛剛收藏的書籍](docs/image/查詢收藏書籍.jpg)
+![刪除指定的收藏書籍](docs/image/刪除書籍.jpg)
 
 ## 📁 專案結構
 ```
